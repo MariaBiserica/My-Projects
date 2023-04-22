@@ -4,3 +4,6 @@
 [submodule "Pairs-Memory-Game"]
 	path = Pairs-Memory-Game
 	url = https://github.com/MariaBiserica/Pairs-Memory-Game.git
+[submodule "Movie-Recommendation-Platform"]
+	path = Movie-Recommendation-Platform
+	url = https://github.com/MariaBiserica/Movie-Recommendation-Platform.git
