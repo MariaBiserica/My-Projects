@@ -16,3 +16,6 @@
 [submodule "Travel-Agency-DB"]
 	path = Travel-Agency-DB
 	url = https://github.com/MariaBiserica/Travel-Agency.git
+[submodule "Multi-Armed-Bandit-Simulator"]
+	path = Multi-Armed-Bandit-Simulator
+	url = https://github.com/MariaBiserica/Multi-Armed-Bandit-Simulator.git
