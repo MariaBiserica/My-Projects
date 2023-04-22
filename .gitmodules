@@ -1,0 +1,3 @@
+[submodule "Booking-WebApp-Demo"]
+	path = Booking-WebApp-Demo
+	url = https://github.com/MariaBiserica/Booking-WebApp-Demo.git
