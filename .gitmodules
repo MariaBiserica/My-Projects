@@ -1,3 +1,6 @@
 [submodule "Booking-WebApp-Demo"]
 	path = Booking-WebApp-Demo
 	url = https://github.com/MariaBiserica/Booking-WebApp-Demo.git
+[submodule "Pairs-Memory-Game"]
+	path = Pairs-Memory-Game
+	url = https://github.com/MariaBiserica/Pairs-Memory-Game.git
