@@ -10,3 +10,6 @@
 [submodule "Triviador-Game"]
 	path = Triviador-Game
 	url = https://github.com/MariaBiserica/Triviador-Game.git
+[submodule "Denmark-Website"]
+	path = Denmark-Website
+	url = https://github.com/MariaBiserica/Denmark-Website.git
